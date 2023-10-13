@@ -1,0 +1,19 @@
+.rodape {
+    background-color: #0848a8;
+    text-align: center;
+    padding: 50px;
+}
+
+.loguinhos img {
+    width: 19px;
+    margin: 0px 10px;
+}
+
+p {
+    color: white;
+    font-size: 11px;
+}
+
+#senai {
+    margin-top: 10px;
+}

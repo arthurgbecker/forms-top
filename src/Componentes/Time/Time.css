@@ -1,0 +1,35 @@
+.time { 
+    text-align: center;
+    padding: 32px;
+    background-color: #5b9bd5;
+}
+
+.time h3 {
+    font-size: 32px;
+    border-bottom: 4px solid #4472c4;
+    display: inline-block;
+    padding-bottom: 8px;
+}
+
+.time .colaboradores {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 32px;
+    flex-wrap: wrap;
+}
+
+
+.colaborador .rodape h4 {
+    color: #6278F7;
+    font-size: 18px;
+    line-height: 22px;
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+
+.colaborador .rodape h5 {
+    font-size: 18px;
+    line-height: 22px;
+    color: #212121;
+    padding: 0 16px;
+}
